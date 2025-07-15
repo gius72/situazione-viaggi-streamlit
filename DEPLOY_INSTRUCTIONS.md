@@ -59,6 +59,7 @@ Compila i campi:
 **Build & Deploy:**
 - **Build Command:** `pip install -r requirements.txt`
 - **Start Command:** `streamlit run streamlit_app.py --server.port=$PORT --server.address=0.0.0.0`
+- **Runtime Environment:** `Python 3.9`
 
 **Advanced (opzionale):**
 - **Environment Variables:** Nessuna necessaria per ora
